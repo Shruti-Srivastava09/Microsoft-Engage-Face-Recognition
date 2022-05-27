@@ -166,3 +166,20 @@ To separately run the application on your local host, perform the following step
 * [PHP tutorials](https://www.w3schools.com/php/)
 * [Face Recognition using OpenCV in python](https://www.youtube.com/watch?v=sz25xxF_AVE)
 * [Connecting to MySQL Database from Php Script](https://www.youtube.com/watch?v=R1djM9B0ay0)
+
+## 🔗 Need Help ?
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](file:///C:/Users/Lenovo/Desktop/MYPROJECT/MICROSOFT%20_%20ENGAGE%20_%20FILE/MYPROJECT/My%20Portfolio.html)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-srivastava-53471320b/)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+---------
+
+```javascript
+
+if (youEnjoyed) {
+    starThisRepository();
+}
+
+```
+
+-----------
