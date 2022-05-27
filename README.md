@@ -83,4 +83,6 @@ Laptops, Desktops and PCs
 6.  If any other person try to use the same credentials with his/her face then the face authentication fails
 
      ![otheruser](https://user-images.githubusercontent.com/106253763/170769602-9b54ef19-8325-474b-b712-6d75b4513d4c.png)
+      
+      ![fail](https://user-images.githubusercontent.com/106253763/170769834-c7d33861-1a3b-4ec8-8906-ec307ea9d475.png)
 
