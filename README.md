@@ -58,11 +58,11 @@ Laptops, Desktops and PCs
    - Seamless landing page with `Register` and `Login` button for user using PHP.
     </br>
     ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
-     </br>
+    
 2.  New users should first Register themselves to proceed with further booking steps.
      </br>
     ![2022-05-26 (3)](https://user-images.githubusercontent.com/106253763/170716914-7b1dfb46-df2c-42b6-8cd3-bb5e4909ddf6.png)
-    </br>
+
     - In `Capture Yourself` Please ensure that the lightning condition should be clear 
      </br>
     ![2022-05-26 (6)](https://user-images.githubusercontent.com/106253763/170717192-59a5d439-ff17-48fa-a961-f33094d5c0b8.png)
