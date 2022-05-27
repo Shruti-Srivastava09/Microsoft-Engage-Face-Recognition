@@ -159,6 +159,16 @@ To separately run the application on your local host, perform the following step
 ![2022-05-26 (18)](https://user-images.githubusercontent.com/106253763/170772798-91c4fbd9-e4a2-4812-8dd7-301e3f034220.png)
 
 
+## TOOLS, SERVERS , LANGUAGES AND PLATFORMS USED
+
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+
 <!-- ACKNOWLEDGEMENTS -->
 
 ## Resources Used
