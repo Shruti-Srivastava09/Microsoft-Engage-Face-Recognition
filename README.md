@@ -76,4 +76,6 @@ Laptops, Desktops and PCs
     ![2022-05-26 (7)](https://user-images.githubusercontent.com/106253763/170720177-e9426ec3-860a-4410-8b9f-93d1edbc6b94.png)
     
     
-5.     
+5.  If their is an existing user they can simply click on `Login` button.
+     
+     ![loginface](https://user-images.githubusercontent.com/106253763/170768973-995afc79-363b-4bdd-a5ee-ac87d46bb142.png)
