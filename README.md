@@ -26,13 +26,15 @@
       <a href="#Getting Started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#SETUP REQUIREMENTS">SETUP REQUIREMENTS</a></li>
       </ul>
     </li>
     <li><a href="#Features and Interfaces">Features and Interfaces</a></li><ul>
-        <li><a href="#Register">Register</a></li>
-        <li><a href="#Login">Login</a></li>
+        <li><a href="#Register using facial recognition">Register using facial recognition</a></li>
+        <li><a href="#Login using facial recognition ">Login using facial recognition</a></li>
         <li><a href="#Book Tickets">Book Tickets</a></li>
+        <li><a href="#">Available trains</a>Available trains</li>
+        <li><a href="#PNR Enquiry"></a>PNR Enquiry</li>
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
@@ -54,6 +56,33 @@
 
 ### Compatible Platforms
 Laptops, Desktops and PCs
+
+
+<!-- INSTALLATIONS -->
+
+## Getting Started
+To install and run the project on your local system, following are the requirements:
+### Prerequisites
+
+1.Make sure to install XAMPP on the device
+
+2.Make sure to install the required packages in python. 
+```sh
+  import cv2
+  import numpy as np
+  import face_recognition
+  import sys
+```
+### SETUP REQUIREMENTS
+
+* XAMPP CONTROL PANEL 
+
+To separately run the application on your local host, perform the following steps:
+
+1. Start the `Apache` and `MYSQL` Module in XAMPP CONTROL PANEL
+2. Place all the files inside the `htdocs` folder which is present inside the XAMPP folder.
+
+
 
 ### Features And Interface
 
