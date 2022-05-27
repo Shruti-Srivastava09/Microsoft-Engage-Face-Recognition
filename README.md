@@ -90,7 +90,7 @@ To separately run the application on your local host, perform the following step
 1. Landing Page 
    - Seamless landing page with `Register` and `Login` button for user using PHP.
 
-    ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
+  ##  ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
    
   
  2.  New users should first Register themselves to proceed with further booking steps
