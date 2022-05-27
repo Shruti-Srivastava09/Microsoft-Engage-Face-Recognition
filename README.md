@@ -29,12 +29,12 @@
         <li><a href="#Setup Requirements">Setup Requirements</a></li>
       </ul>
     </li>
-    <li><a href="#Features and Interfaces">Features and Interfaces</a></li><ul>
+    <li>Features and Interfaces</li><ul>
         <li>Register using facial recognition</li>
-        <li><a href="#Login using facial recognition ">Login using facial recognition</a></li>
-        <li><a href="#Book Tickets">Book Tickets</a></li>
-        <li><a href="#Available trains">Available trains</a></li>
-        <li><a href="#PNR Enquiry">PNR Enquiry</a></li>
+        <li>Login using facial recognition</li>
+        <li>Book Tickets</li>
+        <li>Available trains</li>
+        <li>PNR Enquiry</li>
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
