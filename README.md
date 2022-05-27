@@ -33,8 +33,8 @@
         <li><a href="#Register using facial recognition">Register using facial recognition</a></li>
         <li><a href="#Login using facial recognition ">Login using facial recognition</a></li>
         <li><a href="#Book Tickets">Book Tickets</a></li>
-        <li><a href="#Available trains"></a>Available trains</li>
-        <li><a href="#PNR Enquiry"></a>PNR Enquiry</li>
+        <li><a href="#Available trains">Available trains</a></li>
+        <li><a href="#PNR Enquiry">PNR Enquiry</a></li>
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
