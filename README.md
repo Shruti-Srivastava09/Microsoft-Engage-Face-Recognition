@@ -79,3 +79,8 @@ Laptops, Desktops and PCs
 5.  If their is an existing user they can simply click on `Login` button.
      
      ![loginface](https://user-images.githubusercontent.com/106253763/170768973-995afc79-363b-4bdd-a5ee-ac87d46bb142.png)
+     
+6.  If any other person try to use the same credentials with his/her face then the face authentication fails
+
+     ![otheruser](https://user-images.githubusercontent.com/106253763/170769602-9b54ef19-8325-474b-b712-6d75b4513d4c.png)
+
