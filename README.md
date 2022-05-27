@@ -73,7 +73,7 @@ To install and run the project on your local system, following are the requireme
   import face_recognition
   import sys
 ```
-### SETUP REQUIREMENTS
+### Setup Requirements
 
 * XAMPP CONTROL PANEL 
 
