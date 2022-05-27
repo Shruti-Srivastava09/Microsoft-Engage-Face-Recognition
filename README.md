@@ -55,5 +55,9 @@ Laptops, Desktops and PCs
 ### Features And Interface
 
 1. Landing Page 
-   - Seamless landing page with `Register` and 'Login' button for user using PHP.
+   - Seamless landing page with `Register` and `Login` button for user using PHP.
    - ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
+
+2.  New users should firstly Register themselves to proceed with further booking steps.
+    -  ![2022-05-27 (1)](https://user-images.githubusercontent.com/106253763/170716458-7151642e-1709-466f-bd1f-7d563d69df26.png)
+
