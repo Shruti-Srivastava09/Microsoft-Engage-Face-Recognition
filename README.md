@@ -150,3 +150,10 @@ To separately run the application on your local host, perform the following step
 ![2022-05-26 (18)](https://user-images.githubusercontent.com/106253763/170772798-91c4fbd9-e4a2-4812-8dd7-301e3f034220.png)
 
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## Resources Used
+
+* [PHP tutorials](https://www.w3schools.com/php/)
+* [Face Recognition using OpenCV in python](https://www.youtube.com/watch?v=sz25xxF_AVE)
+* [Connecting to MySQL Database from Php Script](https://www.youtube.com/watch?v=R1djM9B0ay0)
