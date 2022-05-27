@@ -42,14 +42,15 @@
 
 ## About The Project
 * A web application for Indian Railways Ticket Booking System was made during Microsoft Engage 2022
-* In this, the Web application will authenticate its users by asking them to register or login using facial recognition.  
-* This would prevent the misuse of accounts of users who book their tickets and will also restrict the black marketers for the illegal 
+* In this Project, the Web application will authenticate its users by asking them to register or login using facial recognition.  
+* This would prevent the misuse of user's account from any suspicious activities and will also restrict the black marketers for the illegal 
   hoarding of tickets as they won't be able to create multiple accounts due to security feature of facial recognition. 
   
 
 ### Salient Features
-* 
-* 
+* User facial authentication for registration and login using OpenCV in Python.
+* Includes Functionalities like Checking the availability of tickets , Booking train Tickets , Checking the PNR status and  Getting the Train Schedule  
+* Restrict the access of a particular user's account if someone else try to access it using his/her credentials.
 
 ### Compatible Platforms
 Laptops, Desktops and PCs
