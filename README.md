@@ -86,3 +86,18 @@ Laptops, Desktops and PCs
       
       ![fail](https://user-images.githubusercontent.com/106253763/170769834-c7d33861-1a3b-4ec8-8906-ec307ea9d475.png)
 
+7.  After successfully registering or login on the portal now the user can start booking their tickets
+
+    ![2022-05-26 (10)](https://user-images.githubusercontent.com/106253763/170771126-209326ca-62bc-4efc-acfb-f605d66174f1.png)
+    
+8. Enter the details of Passengers
+
+     ![2022-05-26 (11)](https://user-images.githubusercontent.com/106253763/170771300-429c1425-d6db-4536-a5d6-8022cc672418.png)
+
+9. Proceed with the Payment Option
+   ![2022-05-26 (12)](https://user-images.githubusercontent.com/106253763/170771415-64e17e30-2201-4962-bef8-16871f6ad8d6.png)
+   
+10. Hurray! You have Successfully Booked Your Ticket
+
+     ![2022-05-26 (13)](https://user-images.githubusercontent.com/106253763/170771615-f7646fdf-f843-4140-b79e-e2b6b83f1512.png)
+
