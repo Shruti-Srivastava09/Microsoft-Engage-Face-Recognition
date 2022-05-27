@@ -93,8 +93,7 @@ To separately run the application on your local host, perform the following step
     ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
    
      
- ### 2. REGISTRATION 
-    New users should first Register themselves to proceed with further booking steps
+ 2.  New users should first Register themselves to proceed with further booking steps
   
       ![register](https://user-images.githubusercontent.com/106253763/170767207-07d3608e-aec7-4de1-879b-45d357aaad46.png)
 
