@@ -44,9 +44,6 @@
 * This would prevent the misuse of accounts of users who book their tickets and will also restrict the black marketers for the illegal 
   hoarding of tickets as they won't be able to create multiple accounts due to security feature of facial recognition. 
   
-  
-  ![Front](https://user-images.githubusercontent.com/106253763/170673546-52ead577-8677-4682-b29d-02d47d5fb5f4.png)
-
 
 ### Salient Features
 * 
