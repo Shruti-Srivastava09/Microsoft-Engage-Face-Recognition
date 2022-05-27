@@ -21,7 +21,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#Features and Interfaces">Features And Interfaces</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -54,3 +54,9 @@
 
 ### Compatible Platforms
 Laptops, Desktops and PCs
+
+### Features And Interface
+
+1. Landing Page 
+   - Seamless landing page with `Register` and 'Login' button for user using PHP.
+   - ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
