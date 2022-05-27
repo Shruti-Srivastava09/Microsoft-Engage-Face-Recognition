@@ -30,7 +30,7 @@
       </ul>
     </li>
     <li><a href="#Features and Interfaces">Features and Interfaces</a></li><ul>
-        <li><a href="#2. REGISTRATION">Register using facial recognition</a></li>
+        <li>Register using facial recognition</li>
         <li><a href="#Login using facial recognition ">Login using facial recognition</a></li>
         <li><a href="#Book Tickets">Book Tickets</a></li>
         <li><a href="#Available trains">Available trains</a></li>
