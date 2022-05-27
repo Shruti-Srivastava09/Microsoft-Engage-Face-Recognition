@@ -56,19 +56,19 @@ Laptops, Desktops and PCs
 
 1. Landing Page 
    - Seamless landing page with `Register` and `Login` button for user using PHP.
-    </br>
+
     ![Front](https://user-images.githubusercontent.com/106253763/170714568-b5af49c0-8608-48d9-8fc9-ff4ef4d687c8.png)
     
 2.  New users should first Register themselves to proceed with further booking steps.
-     </br>
+  
     ![2022-05-26 (3)](https://user-images.githubusercontent.com/106253763/170716914-7b1dfb46-df2c-42b6-8cd3-bb5e4909ddf6.png)
 
     - In `Capture Yourself` Please ensure that the lightning condition should be clear 
-     </br>
+
     ![2022-05-26 (6)](https://user-images.githubusercontent.com/106253763/170717192-59a5d439-ff17-48fa-a961-f33094d5c0b8.png)
 
 3. REGISTERATION SUCCESSFUL - Now user can proceed with Ticket Booking
-    </br>
+
     ![2022-05-26 (7)](https://user-images.githubusercontent.com/106253763/170720177-e9426ec3-860a-4410-8b9f-93d1edbc6b94.png)
     
 4.     
