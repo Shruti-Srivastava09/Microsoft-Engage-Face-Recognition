@@ -26,14 +26,14 @@
       <a href="#Getting Started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#SETUP REQUIREMENTS">SETUP REQUIREMENTS</a></li>
+        <li><a href="#Setup Requirements">Setup Requirements</a></li>
       </ul>
     </li>
     <li><a href="#Features and Interfaces">Features and Interfaces</a></li><ul>
         <li><a href="#Register using facial recognition">Register using facial recognition</a></li>
         <li><a href="#Login using facial recognition ">Login using facial recognition</a></li>
         <li><a href="#Book Tickets">Book Tickets</a></li>
-        <li><a href="#">Available trains</a>Available trains</li>
+        <li><a href="#Available trains"></a>Available trains</li>
         <li><a href="#PNR Enquiry"></a>PNR Enquiry</li>
       </ul>
     <li><a href="#resources-used">Resources Used</a></li>
