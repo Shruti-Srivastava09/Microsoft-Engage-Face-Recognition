@@ -31,3 +31,18 @@
     <li><a href="#resources-used">Resources Used</a></li>
   </ol>
 </details>
+
+  <!-- ABOUT THE PROJECT -->
+
+## About The Project
+* A web application for Indian Railways Ticket Booking System was made during Microsoft Engage 2022
+* In this, the Web application will authenticate its users by facial recognition also the user needs to login using face recognition.  
+* This would prevent the misuse of accounts of users who book their tickets and will also restrict the black marketers for the illegal 
+  hoarding of tickets as they won't be able to create multiple accounts due to security feature of facial recognition. 
+
+### Salient Features
+* User authentication using Firebase and login via Google and Facebook
+* 
+
+### Compatible Platforms
+Laptops, Desktops and PCs
