@@ -63,13 +63,13 @@ Laptops, Desktops and PCs
   
  2.  New users should first Register themselves to proceed with further booking steps
   
-    ![2022-05-26 (3)](https://user-images.githubusercontent.com/106253763/170716914-7b1dfb46-df2c-42b6-8cd3-bb5e4909ddf6.png)
-    
+      ![register](https://user-images.githubusercontent.com/106253763/170767207-07d3608e-aec7-4de1-879b-45d357aaad46.png)
+
 
  3.  In `Capture Yourself` Please ensure that the lightning condition should be clear
 
-    ![2022-05-26 (6)](https://user-images.githubusercontent.com/106253763/170717192-59a5d439-ff17-48fa-a961-f33094d5c0b8.png)
-    
+   ![capture](https://user-images.githubusercontent.com/106253763/170767507-d51f9297-f6e7-4656-87dc-14944731e90c.png)
+
 
  4. REGISTERATION SUCCESSFUL - Now user can proceed with Ticket Booking
 
