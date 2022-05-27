@@ -69,7 +69,7 @@ Laptops, Desktops and PCs
       ![register](https://user-images.githubusercontent.com/106253763/170767207-07d3608e-aec7-4de1-879b-45d357aaad46.png)
 
 
- 3.  In `Capture Yourself` Please ensure that the lightning condition should be clear
+ 3.  In `Capture Photo` Please ensure that the lightning condition should be clear
 
    ![capture](https://user-images.githubusercontent.com/106253763/170767507-d51f9297-f6e7-4656-87dc-14944731e90c.png)
 
@@ -83,7 +83,7 @@ Laptops, Desktops and PCs
      
      ![loginface](https://user-images.githubusercontent.com/106253763/170768973-995afc79-363b-4bdd-a5ee-ac87d46bb142.png)
      
-6.  If any other person try to use the same credentials with his/her face then the face authentication fails
+6.  If any other person try to use the same credentials with his/her face then the face authentication fails and access is denied.
 
      ![otheruser](https://user-images.githubusercontent.com/106253763/170769602-9b54ef19-8325-474b-b712-6d75b4513d4c.png)
       
