@@ -100,4 +100,20 @@ Laptops, Desktops and PCs
 10. Hurray! You have Successfully Booked Your Ticket
 
      ![2022-05-26 (13)](https://user-images.githubusercontent.com/106253763/170771615-f7646fdf-f843-4140-b79e-e2b6b83f1512.png)
+     
+     
+ ## ADDITIONAL FEATURES 
+ 
+  1. PNR STATUS 
+
+   ![2022-05-26 (16)](https://user-images.githubusercontent.com/106253763/170772532-72411982-3022-48b1-a7cd-7f0215684014.png)
+   
+   
+  2. TRAIN SCHEDULE
+
+     
+![2022-05-26 (17)](https://user-images.githubusercontent.com/106253763/170772755-0b76dbf3-9f71-48d6-8e0b-15b01bf148d0.png)
+
+![2022-05-26 (18)](https://user-images.githubusercontent.com/106253763/170772798-91c4fbd9-e4a2-4812-8dd7-301e3f034220.png)
+
 
