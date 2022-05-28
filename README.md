@@ -1,4 +1,4 @@
-<h1 align="center"> RAILTECH -> E-ticket Booking PLatform using Face Recognition   
+<h1 align="center"> RAILTECH -> E-ticket Booking Platform using Face Recognition   
 </h1>
 <p align="center">
   
