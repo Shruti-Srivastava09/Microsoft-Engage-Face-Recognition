@@ -165,7 +165,7 @@ To separately run the application on your local host, perform the following step
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
 
 <!-- ACKNOWLEDGEMENTS -->
