@@ -166,7 +166,7 @@ To separately run the application on your local host, perform the following step
 
 - [Demo Video](https://youtu.be/OKKK1GOnlIU)
 - [Project Document](https://docs.google.com/presentation/d/1n35MFBlErFhRe-GfsVcp0zViQ8LIys0Z/edit?usp=sharing&ouid=104439095951685118458&rtpof=true&sd=true)
-- [Design Document](https://docs.google.com/document/d/1IJcEbbhsbQna-tgcnfV_9_RhXQi4SURlrl3-0HypArE/edit?usp=sharing)
+- [Design Document](https://docs.google.com/document/d/17Z_1ffZQLo40dwP9JoX48_crU1rZ-uyoiFtgQmMnFBs/edit?usp=sharing)
 
 
 ## TOOLS, SERVERS , LANGUAGES AND PLATFORMS USED
