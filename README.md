@@ -1,6 +1,7 @@
 <h1 align="center"> RAILTECH -> E-ticket Booking Platform using Face Recognition   
 </h1>
 <h2 align="left"> SUBMISSION FOR MICROSOFT ENGAGE PROGRAM 2022 🌟
+  </h2>
 <p align="center">
   
   
