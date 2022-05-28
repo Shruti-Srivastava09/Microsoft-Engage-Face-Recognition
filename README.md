@@ -159,6 +159,12 @@ To separately run the application on your local host, perform the following step
 
 ![2022-05-26 (18)](https://user-images.githubusercontent.com/106253763/170772798-91c4fbd9-e4a2-4812-8dd7-301e3f034220.png)
 
+## Useful Links
+
+- [Demo Video](https://youtu.be/OKKK1GOnlIU)
+- [Project Document](https://docs.google.com/presentation/d/1y3NakEcdbtqAYdmUpCQA_VVQpC87bS-G/edit?usp=sharing&ouid=104439095951685118458&rtpof=true&sd=true)
+- [Design Document](https://docs.google.com/document/d/1IJcEbbhsbQna-tgcnfV_9_RhXQi4SURlrl3-0HypArE/edit?usp=sharing)
+
 
 ## TOOLS, SERVERS , LANGUAGES AND PLATFORMS USED
 
