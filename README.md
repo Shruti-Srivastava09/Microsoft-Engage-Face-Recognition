@@ -10,7 +10,7 @@
 
   <p align="center">  
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/480px-Microsoft_logo.svg.png" alt="Logo" width="25" height="25">·
- <a target="_blank" href="#">Video Demo</a>
+ <a target="_blank" href="https://youtu.be/0fd-nZV-1ig">Video Demo</a>
 </p>
     ·
 <!-- TABLE OF CONTENTS -->
@@ -164,7 +164,7 @@ To separately run the application on your local host, perform the following step
 
 ## Useful Links
 
-- [Demo Video](https://youtu.be/OKKK1GOnlIU)
+- [Demo Video](https://youtu.be/0fd-nZV-1ig)
 - [Project Document](https://docs.google.com/presentation/d/1n35MFBlErFhRe-GfsVcp0zViQ8LIys0Z/edit?usp=sharing&ouid=104439095951685118458&rtpof=true&sd=true)
 - [Design Document](https://docs.google.com/document/d/17Z_1ffZQLo40dwP9JoX48_crU1rZ-uyoiFtgQmMnFBs/edit?usp=sharing)
 
